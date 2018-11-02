@@ -1,10 +1,3 @@
-selector (id, class, tag name) {
-  property-name: value;
-  property-name: value;
-  property-name: value;
-  property-name: value;
-}
-
 h1 {
-  property-name: value;
+  font-size: 10;
 }
