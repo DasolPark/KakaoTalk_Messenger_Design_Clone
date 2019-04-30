@@ -2,4 +2,4 @@
 
 Kakao Desktop App Clone
 
-Site: https://github.com/DasolPark/KakaoTalk_Messenger_Design_Clone
+Site: https://dasolpark.github.io/KakaoTalk_Messenger_Design_Clone-Nico-/
